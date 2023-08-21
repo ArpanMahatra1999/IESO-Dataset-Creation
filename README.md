@@ -10,4 +10,4 @@ Languages used:
 Steps to Install:
 1. Download files.
 2. Install Tools and Language.
-3. Run IESO "Dataset Creation for Electricity.pynb" line by line.
+3. Run IESO "Dataset Creation for Electricity.ipynb" line by line.
