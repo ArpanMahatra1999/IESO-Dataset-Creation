@@ -1,4 +1,4 @@
-# Jupyter-Notebook-IESO-Dataset-Creation
+# IESO-Dataset-Creation
 Notebook file to create appropriate csv as datasets from IESO website.
 
 Tools used:
